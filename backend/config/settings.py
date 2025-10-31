@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     #Manara Apps
     'core',
     'pages',
+    'dashboard',
+    'finance',
 ]
 
 MIDDLEWARE = [
